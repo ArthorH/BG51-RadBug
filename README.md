@@ -6,7 +6,7 @@ Small STM32 based board that allows for USB communication with BG51 PIN radiatio
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ✅ — **Bringup** ✅ — **Testing** ✅  
 ## Key technologies:
 <img align="center" height="70" src="https://github.com/user-attachments/assets/b9e7a733-c604-4bd4-b8ea-bd48c80eab4d">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" height="70" src="https://github.com/user-attachments/assets/c88ec725-c17d-4c96-86e4-d47900c1a8e7">
-## Feachures:
+## Features:
 <img align="center" height="400" src="https://github.com/user-attachments/assets/3dcdbe0c-fe65-40e2-b6a1-e3f41eb1269b">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 - **USB 2.0 Connectivity**
 - **Mikrobus Connector**
